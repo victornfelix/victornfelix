@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Estudante de programação HTML,CSS E JS!
+  ### Estudante de programação!
  
 <div> 
   <a href = "mailto:nfelixvictor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
